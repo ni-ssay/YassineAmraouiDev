@@ -31,12 +31,12 @@
 # 📊 GitHub Stats:
 
 <div align="center">
-    <img src="https://github-profile-trophy.vercel.app/?username=YassineAmraouiDev&theme=chalk&column=2&row=2&margin-w=0&margin-h=1"/>
-    <img width="560" style="object-fit: stretch;" src="https://streak-stats.demolab.com?user=YassineAmraouiDev&theme=dracula&date_format=M%20j%5B%2C%20Y%5D&mode=weekly"/>
+    <img src="https://github-profile-trophy.vercel.app/?username=ni-ssay&theme=chalk&column=2&row=2&margin-w=0&margin-h=1"/>
+    <img width="560" style="object-fit: stretch;" src="https://streak-stats.demolab.com?user=ni-ssay&theme=dracula&date_format=M%20j%5B%2C%20Y%5D&mode=weekly"/>
 </div>
 <div align="center">
-    <img width="800" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=YassineAmraouiDev&theme=dracula">
+    <img width="800" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=ni-ssay&theme=dracula">
 </div>
 <div align="center">
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YassineAmraouiDev&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact"/>
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ni-ssay&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact"/>
 </div>
