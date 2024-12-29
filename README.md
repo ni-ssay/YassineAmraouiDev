@@ -39,4 +39,5 @@
 </div>
 <div align="center">
     <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ni-ssay&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact"/>
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ni-ssay&theme=default&show_icons=true&hide_border=true&layout=compact" alt="ni-ssay's GitHub Stats" />
 </div>
