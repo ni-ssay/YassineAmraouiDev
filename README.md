@@ -8,7 +8,7 @@
 ## 🌐 Socials:
 
 <p align="center">
-    <a target="_blank" href="www.linkedin.com/in/yassine-amraoui-4810921a1/">
+    <a target="_blank" href="https://www.linkedin.com/in/yassine-amraoui-4810921a1/">
 <img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
 </p>
 
