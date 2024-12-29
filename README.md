@@ -1,8 +1,5 @@
-================================================
-File: /README.md
-================================================
 <h1 align="center">Hello, I'm Yassine AMRAOUI</h1>
-<h3 align="center">A Graphic Designer and Multimedia Developer with a passion for creating immersive and innovative experiences.<br> I specialize in 3D design, animations, web development, and e-learning solutions, continuously advancing my skills in the ever-evolving world of technology.</h3>
+<h3 align="center">A Graphic Designer and Multimedia Developer with a passion for creating immersive and innovative experiences. <br> I specialize in 3D design, animations, web development, and e-learning solutions, continuously advancing my skills in the dynamic world of technology.</h3>
 
 ---
 
@@ -19,8 +16,8 @@ File: /README.md
 <p align="center">
   <img src="https://img.shields.io/badge/HTML-CSS-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML/CSS">
   <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript">
-  <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white" alt="Node.js">
   <img src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black" alt="React">
+  <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white" alt="Node.js">
   <img src="https://img.shields.io/badge/Unity-000000?style=for-the-badge&logo=unity&logoColor=white" alt="Unity">
   <img src="https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white" alt="C#">
   <img src="https://img.shields.io/badge/Blender-F5792A?style=for-the-badge&logo=blender&logoColor=white" alt="Blender">
